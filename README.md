@@ -3,10 +3,10 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500px" /> <br>
   <div id="badges">
-   <a href="https://www.linkedin.com/in/chao-long-321129/">
+   <a href="https://www.linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:piaochaolong@gmail.com">
+  <a href="mailto:gigcrypto99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
     <img src="https://komarev.com/ghpvc/?username=ahlem-phantom&style=for-the-badge">
